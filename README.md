@@ -1,5 +1,8 @@
 # automl_o23
-Repositorio del Curso LLMs y AutoML del ITAM otonyo 23
+Repositorio del Curso LLMs y AutoML del ITAM Primavera 2023
+
+![AutoML](automl_p24.png)
+
 
 ## Recursos
 [Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1sREq4JhHKitD7SOab-_yDsSw9L7Ti4oP?usp=sharing)  
