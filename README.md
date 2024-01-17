@@ -7,9 +7,9 @@ Repositorio del Curso LLMs y AutoML del ITAM Primavera 2023
 ## Recursos
 [Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1sREq4JhHKitD7SOab-_yDsSw9L7Ti4oP?usp=sharing)  
 
-[Syllabus](https://docs.google.com/document/d/1VFTnFHz7dVM9BTnfwjRNJTKg39CUtoStP4fw8Kon4rI/edit?usp=sharing)  
+[Syllabus]( )  
 
-[Calendario y Anuncios](https://docs.google.com/spreadsheets/d/1arYGvIEW7EC8RskAFhHnzMhsBPMlN55yk97aFzSE1ug/edit?usp=sharing)  
+[Calendario y Anuncios](https://docs.google.com/spreadsheets/d/1rMmBl86AVo3JCd8krtvP4hFIjB9zNFoCzZ0xud_qnjU/edit#gid=0)  
 
 ## Github
 [Github](https://github.com/sonder-art/automl_p24)
