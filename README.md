@@ -1,5 +1,5 @@
-# automl_o23
-Repositorio del Curso LLMs y AutoML del ITAM Primavera 2023
+# automl_p24
+Repositorio del Curso LLMs y AutoML del ITAM Primavera 2024
 
 ![AutoML](automl_p24.png)
 
